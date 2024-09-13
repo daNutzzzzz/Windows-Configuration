@@ -6,6 +6,7 @@ This is a list of software that i use on a build of Windows.
 * [AMD](https://www.amd.com/en/support)
 * [Intel](https://www.intel.com/content/www/us/en/download-center/home.html)
 * [Nvidia](https://www.nvidia.co.uk/Download/index.aspx)
+* [RealTek](https://www.realtek.com/Download/Overview?menu_id=276)
 * [Alienware](https://www.dell.com/support/home/en-us/product-support/product/alienware-25-gaming-monitor-aw2518hf/drivers)
 
 
@@ -33,15 +34,16 @@ This is a list of software that i use on a build of Windows.
 
 
 ## Desktop
-* [Rainmeter](https://www.rainmeter.net/)
-* [Lively](https://github.com/rocksdanister/lively)
-* [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)
+* [Discord](https://discord.com/download)
 * [SoundSwitch](https://github.com/Belphemur/SoundSwitch)
 * [LightShot](https://app.prntscr.com/)
 * [ShareX](https://getsharex.com/)
-* [DeskPinss](https://efotinis.neocities.org/deskpins/)
 * [Logitech G-Hub](https://www.logitechg.com/en-gb/innovation/g-hub.html)
-* [Corsair LINK](https://www.corsair.com/uk/en/downloads)
+* [RePlays](https://github.com/lulzsun/RePlays)
+* [Rainmeter](https://www.rainmeter.net/)
+* [Lively](https://github.com/rocksdanister/lively)
+* [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)
+* [DeskPinss](https://efotinis.neocities.org/deskpins/)
 
 
 ## RGB

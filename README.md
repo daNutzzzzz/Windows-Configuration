@@ -39,6 +39,7 @@ This is a list of software that i use on a build of Windows.
 * [LightShot](https://app.prntscr.com/)
 * [ShareX](https://getsharex.com/)
 * [Logitech G-Hub](https://www.logitechg.com/en-gb/innovation/g-hub.html)
+* [Playnite](https://playnite.link/addons.html)
 * [RePlays](https://github.com/lulzsun/RePlays)
 * [Rainmeter](https://www.rainmeter.net/)
 * [Lively](https://github.com/rocksdanister/lively)

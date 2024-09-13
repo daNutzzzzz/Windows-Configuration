@@ -19,9 +19,9 @@ This is a list of software that i use on a build of Windows.
 
 
 ## WebBrowser Extentions
+* [Bitwarden](https://bitwarden.com/)
 * [Dark Reader](https://darkreader.org/)
 * [Office](https://microsoftedge.microsoft.com/addons/detail/office/gggmmkjegpiggikcnhidnjjhmicpibll)
-* [LastPass](https://microsoftedge.microsoft.com/addons/detail/lastpass-free-password-m/bbcinlkgjjkejfdpemiealijmmooekmp)
 * [Enhancer for YouTube™](https://microsoftedge.microsoft.com/addons/detail/enhancer-for-youtube%E2%84%A2/dlgfaleeejmphhnemjgiaekdbonkagkd)
 * [Reddit Enhancement Suite](https://microsoftedge.microsoft.com/addons/detail/reddit-enhancement-suite/jlhgedjpndhblehblebhncfmkkpngiep)
 * [Honey](https://microsoftedge.microsoft.com/addons/detail/honey/amnbcmdbanbkjhnfoeceemmmdiepnbpp)

@@ -91,6 +91,7 @@ This is a list of software that i use on a build of Windows.
 
 ## Music
 * [Sonos](https://support.sonos.com/s/downloads?language=en_US)
+* [Spotify](https://open.spotify.com/)
 * [Tidal](https://tidal.com)
 
 
